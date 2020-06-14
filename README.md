@@ -6,6 +6,7 @@ Link: https://www.youtube.com/watch?v=pk96gqasGBQ
 Demo Video can be downloaded from [here.](https://drive.google.com/file/d/1hxT3RrkB-W814q2qYQeD_FSKO1T8D72q/view?usp=sharing)
 
 I used Faster R-CNN Object Detection Algorithm (used by Detectron2) and the weights of the COCO dataset which are easily available online.
+*OpenCV* library was used for Computer Vision tasks. 
 My code is available as *social_dist_tool.ipynb* inside the repository.
 
 This code was written on [Google Colab.](https://colab.research.google.com/) I would recommend using the same. *Change the runtime to GPU prior to installing the libraries.*
