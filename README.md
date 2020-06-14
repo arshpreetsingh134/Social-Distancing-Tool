@@ -3,8 +3,9 @@ Social Distancing Tool using OpenCV &amp; Detectron2 (a FAIR library for Object 
 
 The project was tested on a demo video uploaded on YouTube, that was obtained from TRIDE (University of Oxford).
 Link: https://www.youtube.com/watch?v=pk96gqasGBQ
+Demo Video can be downloaded from [here.](https://drive.google.com/file/d/1hxT3RrkB-W814q2qYQeD_FSKO1T8D72q/view?usp=sharing)
 
-I used Faster R-CNN Object Detection Algorithm and the weights of the COCO dataset which are easily available online.
+I used Faster R-CNN Object Detection Algorithm (used by Detectron2) and the weights of the COCO dataset which are easily available online.
 
 This code was written on [Google Colab.](https://colab.research.google.com/) I would recommend using the same. *Change the runtime to GPU prior to installing the libraries.*
 
